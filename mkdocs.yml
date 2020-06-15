@@ -9,4 +9,5 @@ pages:
 theme:
   name: null
   custom_dir: mkdocs-material/material
-
+repo_name: doplaydo/website
+repo_url: https://github.com/doplaydo/website
