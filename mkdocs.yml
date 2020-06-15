@@ -10,3 +10,5 @@ theme:
   name: material
 repo_name: doplaydo/website
 repo_url: https://github.com/doplaydo/website
+- name: Deploy MkDocs
+  uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
