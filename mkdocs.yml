@@ -7,5 +7,6 @@ pages:
   - 'Python':
     - python/install.md
 theme:
-  name: material
+  name: null
+  custom_dir: mkdocs-material/material
 
