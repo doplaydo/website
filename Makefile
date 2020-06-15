@@ -8,4 +8,6 @@ build:
 serve:
 	mkdocs serve
 
+deploy:
+	mkdocs gh-deploy
 
