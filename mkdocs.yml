@@ -1,14 +1,13 @@
 site_name: DoPlayDo
 site_description: 'DoPlayDo'
 site_url: 'https://doplaydo.com'
+docs_dir: docs/
 copyright: 'Copyright &copy; 2020 DoPlayDo'
+repo_name: doplaydo/website
+repo_url: https://github.com/doplaydo/website
 pages:
   - Introduction: 'index.md'
   - 'Python':
     - python/install.md
 theme:
-  name: material
-repo_name: doplaydo/website
-repo_url: https://github.com/doplaydo/website
-- name: Deploy MkDocs
-  uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
+  name: 'material'

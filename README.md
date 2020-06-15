@@ -24,4 +24,5 @@ make build
 
 - [materials](https://squidfunk.github.io/mkdocs-material/getting-started/)
 - [actions](https://github.com/marketplace/actions/deploy-mkdocs)
+- [template](https://github.com/mhausenblas/mkdocs-template)
 
